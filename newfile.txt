@@ -1,0 +1,4 @@
+first line and first commit 
+second line and second commit 
+third line and third commit 
+last line and last commit
